@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "2XHnHXo4vIfHjF4K1WNrUhclAXJcCSZNhZIdihvxksr3sdzpB7wc6wt73oARegzX5KYzjHb9Zo36mxkx-t1y9ZjzV9-cqhgCKiwVuDTWVYR992Z3Z4tnqffh57yRXEy8PDM_MyDHZgMS6rQnXQ6b9pcUhW5yVb5Tt4VSJxIihsvZx3mN2b8sd6L-ARkEEEhgoZrBTiCaK-srlYAlKm6NAZvsLIC22-jiNXnqjbUP3oWjjMJ9mbJqKHYNy2yZmF-5UFugVkqygKHE6_lR2tr7I7kXv3H10mSvynqJgvk_E0TL7mYSBZauF8ZzPEpAG8TwNtvsKnDTsiTaISJyCOPjzrNYf_4KLQ4ljc4l-G93SJrwD-COJty29Chl3sKH7K4xPIbXGotOH37HPfqWZw7pGjgE1L20SrsEdMnDzgBDCh2RFX43WvwTTynqKZFWzALQCOudmdZZ9MYOjNash_3aJPU9Ff_glIIz4tM1H5Dh04xQIZCvIH9D5ypGBp4cswbf",
+      "e": "AQAB",
+      "kid": "signal-epic-nonprod-1",
+      "use": "sig",
+      "alg": "RS256"
+    }
+  ]
+}
